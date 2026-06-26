@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://malaga.puntoreforma.es/sitemap.xml
